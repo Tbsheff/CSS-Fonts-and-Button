@@ -1,17 +1,8 @@
 :root {
-    --prussian-blue: #3d5a80;
-}
-
-:root {
-    --pale-cerulean: #98c1d9;
-}
-
-:root {
     --burnt-sierra: #ee6c4d;
-}
-
-:root {
     --slate: #293241;
+    --pale-cerulean: #98c1d9;
+    --prussian-blue: #3d5a80;
 }
 
 .button {
