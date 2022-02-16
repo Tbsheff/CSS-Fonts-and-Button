@@ -51,6 +51,8 @@ article {
 
 picture img {
     width: 100%;
+    margin-left: none;
+    padding-left: none;
 }
 
 body {
